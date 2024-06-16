@@ -1,0 +1,350 @@
+{
+    "en": {
+        "title": "Searching Assistant",
+        "tooltip": {
+            "ready": "AI Support is Ready",
+            "reset": "Reset Conversation",
+            "send": "Send",
+            "close": "Close",
+            "link":"Open in new tab"
+        },
+        "message": {
+            "hello": "Thank you for visiting our website. I will find the relevant page to your question.",
+            "error": "Could not connect to server.<br> Sorry for not being able to answer your question.",
+            "reset": "I have reset the conversation. Please ask me anything.",
+            "reference":"Referenced pages"
+        },
+        "system": {
+            "error": "Something get wrong. Please try again.",
+            "reset": "Context deleted",
+            "loading":"Loading data. Please wait.."
+        },
+        "placeholder": "Type your question here..",
+        "loading":{
+            "1":"Searching for information to answer",
+            "2":"Organizing information",
+            "3":"Will be completed soon",
+            "4":"What a difficult question!🙄",
+            "5":"This is the first time it has taken so long😮"
+        }
+    },
+    "ja": {
+        "title": "検索アシスタント",
+        "tooltip": {
+            "ready": "AIに質問する",
+            "reset": "会話をリセット",
+            "send": "送信",
+            "close": "閉じる",
+            "link":"新しいタブで開く"
+        },
+        "message": {
+            "hello": "当サイトにお越しいただきありがとうございます。なにか質問があれば、関連するページを見つけてお答えいたします。",
+            "error": "サーバーに接続できませんでした。<br>質問にお答えできず申し訳ありません。",
+            "reset": "会話をリセットしました。新しい質問をどうぞ。",
+            "reference":"参照ページ"
+        },
+        "system": {
+            "error": "エラーが発生しました。もう一度お試しください。",
+            "reset": "会話履歴を削除しました",
+            "loading":"データを読み込んでいます。しばらくお待ちください.."
+        },
+        "placeholder": "ここに質問を入力..",
+        "loading":{
+            "1":"回答に必要な情報を検索しています",
+            "2":"情報を整理しています",
+            "3":"すぐに完了します",
+            "4":"なんて難しい質問でしょう!🙄",
+            "5":"こんなに時間がかかったことは初めてです😮"
+        }
+    },
+    "zh": {
+        "title": "搜索助手",
+        "tooltip": {
+            "ready": "AI支持已准备就绪",
+            "reset": "重置对话",
+            "send": "发送",
+            "close": "关闭",
+            "link":"在新标签页中打开"
+        },
+        "message": {
+            "hello": "感谢您访问我们的网站。我将为您找到相关页面。",
+            "error": "无法连接到服务器。<br>很抱歉无法回答您的问题。",
+            "reset": "我已重置对话。请随时提问。",
+            "reference":"参考页面"
+        },
+        "system": {
+            "error": "出现错误。请重试。",
+            "reset": "上下文已删除",
+            "loading":"正在加载数据。请稍候.."
+        },
+        "placeholder": "在此输入您的问题..",
+        "loading":{
+            "1":"正在搜索回答所需的信息",
+            "2":"整理信息",
+            "3":"即将完成",
+            "4":"这是一个多么困难的问题!🙄",
+            "5":"这是第一次花这么长时间😮"
+        }
+    },
+    "hi": {
+        "title": "खोज सहायक",
+        "tooltip": {
+            "ready": "AI सहायता तैयार है",
+            "reset": "वार्तालाप रीसेट करें",
+            "send": "भेजें",
+            "close": "बंद करें",
+            "link":"नए टैब में खोलें"
+        },
+        "message": {
+            "hello": "हमारी वेबसाइट पर आने के लिए धन्यवाद। मैं आपके प्रश्न से संबंधित पृष्ठ ढूंढूंगा।",
+            "error": "सर्वर से कनेक्ट नहीं हो सका।<br>आपके प्रश्न का उत्तर न दे पाने के लिए खेद है।",
+            "reset": "मैंने वार्तालाप रीसेट कर दिया है। कृपया मुझसे कुछ भी पूछें।",
+            "reference":"संदर्भ पृष्ठ"
+        },
+        "system": {
+            "error": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+            "reset": "संदर्भ हटाया गया",
+            "loading":"डेटा लोड हो रहा है। कृपया प्रतीक्षा करें.."
+        },
+        "placeholder": "अपना प्रश्न यहां टाइप करें ..",
+        "loading":{
+            "1":"उत्तर देने के लिए जानकारी खोज रहा हूँ",
+            "2":"जानकारी को संगठित कर रहा हूँ",
+            "3":"जल्द ही पूरा हो जाएगा",
+            "4":"कितना मुश्किल सवाल है!🙄",
+            "5":"इससे इतना समय लगना पहली बार है😮"
+        }
+    },
+    "es": {
+        "title": "Asistente de Búsqueda",
+        "tooltip": {
+            "ready": "Asistente de IA listo",
+            "reset": "Reiniciar conversación",
+            "send": "Enviar",
+            "close": "Cerrar",
+            "link":"Abrir en nueva pestaña"
+        },
+        "message": {
+            "hello": "Gracias por visitar nuestro sitio web. Encontraré la página relevante a su pregunta.",
+            "error": "No se pudo conectar al servidor.<br>Lamento no poder responder a su pregunta.",
+            "reset": "He reiniciado la conversación. Por favor, pregúnteme cualquier cosa.",
+            "reference":"Páginas de referencia"
+        },
+        "system": {
+            "error": "Algo salió mal. Por favor, inténtelo de nuevo.",
+            "reset": "Contexto eliminado",
+            "loading":"Cargando datos. Por favor espere.."
+        },
+        "placeholder": "Escriba su pregunta aquí..",
+        "loading":{
+            "1":"Buscando información para responder",
+            "2":"Organizando información",
+            "3":"Se completará pronto",
+            "4":"¡Qué pregunta tan difícil!🙄",
+            "5":"Es la primera vez que ha tardado tanto tiempo😮"
+        }
+    },
+    "fr": {
+        "title": "Assistant de Recherche",
+        "tooltip": {
+            "ready": "Support IA prêt",
+            "reset": "Réinitialiser la conversation",
+            "send": "Envoyer",
+            "close": "Fermer",
+            "link":"Ouvrir dans un nouvel onglet"
+        },
+        "message": {
+            "hello": "Merci d'avoir visité notre site web. Je trouverai la page pertinente à votre question.",
+            "error": "Impossible de se connecter au serveur.<br>Désolé de ne pas pouvoir répondre à votre question.",
+            "reset": "J'ai réinitialisé la conversation. N'hésitez pas à me poser n'importe quelle question.",
+            "reference":"Pages de référence"
+        },
+        "system": {
+            "error": "Un problème est survenu. Veuillez réessayer.",
+            "reset": "Contexte supprimé",
+            "loading":"Chargement des données. Veuillez patienter.."
+        },
+        "placeholder": "Tapez votre question ici..",
+        "loading":{
+            "1":"Recherche d'informations pour répondre",
+            "2":"Organisation des informations",
+            "3":"Sera bientôt terminé",
+            "4":"Quelle question difficile!🙄",
+            "5":"C'est la première fois que cela prend autant de temps😮"
+        }
+    },
+    "pt": {
+        "title": "Assistente de Pesquisa",
+        "tooltip": {
+            "ready": "Suporte de IA pronto",
+            "reset": "Reiniciar conversa",
+            "send": "Enviar",
+            "close": "Fechar",
+            "link":"Abrir em nova guia"
+        },
+        "message": {
+            "hello": "Obrigado por visitar nosso site. Vou encontrar a página relevante para sua pergunta.",
+            "error": "Não foi possível conectar ao servidor.<br>Desculpe por não poder responder à sua pergunta.",
+            "reset": "Reiniciei a conversa. Por favor, pergunte-me qualquer coisa.",
+            "reference":"Páginas de referência"
+        },
+        "system": {
+            "error": "Algo deu errado. Por favor, tente novamente.",
+            "reset": "Contexto excluído",
+            "loading":"Carregando dados. Por favor, aguarde.."
+        },
+        "placeholder": "Digite sua pergunta aqui..",
+        "loading":{
+            "1":"Procurando informações para responder",
+            "2":"Organizando informações",
+            "3":"Será concluído em breve",
+            "4":"Que pergunta difícil!🙄",
+            "5":"É a primeira vez que demora tanto tempo😮"
+        }
+    },
+    "it": {
+        "title": "Assistente di Ricerca",
+        "tooltip": {
+            "ready": "Supporto AI pronto",
+            "reset": "Reimposta conversazione",
+            "send": "Invia",
+            "close": "Chiudi",
+            "link":"Apri in una nuova scheda"
+        },
+        "message": {
+            "hello": "Grazie per aver visitato il nostro sito web. Troverò la pagina pertinente alla tua domanda.",
+            "error": "Impossibile connettersi al server.<br>Mi dispiace di non poter rispondere alla tua domanda.",
+            "reset": "Ho reimpostato la conversazione. Chiedimi pure qualsiasi cosa.",
+            "reference":"Pagine di riferimento"
+        },
+        "system": {
+            "error": "Qualcosa è andato storto. Per favore riprova.",
+            "reset": "Contesto eliminato",
+            "loading":"Caricamento dati. Attendere prego.."
+        },
+        "placeholder": "Digita qui la tua domanda..",
+        "loading":{
+            "1":"Ricerca di informazioni per rispondere",
+            "2":"Organizzazione delle informazioni",
+            "3":"Sarà completato presto",
+            "4":"Che domanda difficile!🙄",
+            "5":"È la prima volta che ci vuole così tanto tempo😮"
+        }
+    },
+    "ru": {
+        "title": "Помощник поиска",
+        "tooltip": {
+            "ready": "ИИ поддержка готова",
+            "reset": "Сбросить разговор",
+            "send": "Отправить",
+            "close": "Закрыть",
+            "link":"Открыть в новой вкладке"
+        },
+        "message": {
+            "hello": "Спасибо за посещение нашего сайта. Я найду нужную страницу для ответа на ваш вопрос.",
+            "error": "Не удалось подключиться к серверу.<br>Простите, что не смог ответить на ваш вопрос.",
+            "reset": "Я сбросил разговор. Пожалуйста, спросите меня о чем угодно.",
+            "reference":"Ссылочные страницы"
+        },
+        "system": {
+            "error": "Что-то пошло не так. Пожалуйста, попробуйте еще раз.",
+            "reset": "Контекст удален",
+            "loading":"Загрузка данных. Пожалуйста, подождите.."
+        },
+        "placeholder": "Введите свой вопрос здесь..",
+        "loading":{
+            "1":"Поиск информации для ответа",
+            "2":"Организация информации",
+            "3":"Скоро будет завершено",
+            "4":"Какой сложный вопрос!🙄",
+            "5":"Это первый раз, когда это занимает так много времени😮"
+        }
+    },
+    "de": {
+        "title": "Suchassistent",
+        "tooltip": {
+            "ready": "KI-Unterstützung bereit",
+            "reset": "Konversation zurücksetzen",
+            "send": "Senden",
+            "close": "Schließen",
+            "link":"In neuem Tab öffnen"
+        },
+        "message": {
+            "hello": "Vielen Dank für den Besuch unserer Website. Ich werde die relevante Seite zu Ihrer Frage finden.",
+            "error": "Es konnte keine Verbindung zum Server hergestellt werden.<br>Entschuldigung, dass ich Ihre Frage nicht beantworten konnte.",
+            "reset": "Ich habe die Konversation zurückgesetzt. Bitte fragen Sie mich alles.",
+            "reference":"Referenzierte Seiten"
+        },
+        "system": {
+            "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+            "reset": "Kontext gelöscht",
+            "loading":"Daten werden geladen. Bitte warten.."
+        },
+        "placeholder": "Geben Sie hier Ihre Frage ein..",
+        "loading":{
+            "1":"Suche nach Informationen zur Beantwortung",
+            "2":"Organisation von Informationen",
+            "3":"Wird bald abgeschlossen sein",
+            "4":"Was für eine schwierige Frage!🙄",
+            "5":"Das ist das erste Mal, dass es so lange"
+        }
+    },
+    "tr": {
+        "title": "Arama Asistanı",
+        "tooltip": {
+            "ready": "AI Desteği Hazır",
+            "reset": "Konuşmayı Sıfırla",
+            "send": "Gönder",
+            "close": "Kapat",
+            "link":"Yeni sekmede aç"
+        },
+        "message": {
+            "hello": "Web sitemizi ziyaret ettiğiniz için teşekkür ederiz. Sorunuzu yanıtlayacak ilgili sayfayı bulacağım.",
+            "error": "Sunucuya bağlanılamadı.<br>Sorunuzu yanıtlayamadığım için üzgünüm.",
+            "reset": "Konuşmayı sıfırladım. Lütfen bana herhangi bir şey sorun.",
+            "reference":"Referans sayfalar"
+        },
+        "system": {
+            "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+            "reset": "Bağlam silindi",
+            "loading":"Veri yükleniyor. Lütfen bekleyin.."
+        },
+        "placeholder": "Sorunuzu buraya yazın..",
+        "loading":{
+            "1":"Yanıt vermek için bilgi aranıyor",
+            "2":"Bilgiler düzenleniyor",
+            "3":"Yakında tamamlanacak",
+            "4":"Ne zor bir soru!🙄",
+            "5":"Bu kadar uzun sürdüğü ilk kez😮"
+        }
+    },
+    "ar": {
+        "title": "مساعد البحث",
+        "tooltip": {
+            "ready": "الدعم الذكي جاهز",
+            "reset": "إعادة تعيين المحادثة",
+            "send": "إرسال",
+            "close": "إغلاق",
+            "link":"فتح في علامة تبويب جديدة"
+        },
+        "message": {
+            "hello": "شكرًا لزيارتك لموقعنا. سأجد الصفحة ذات الصلة بسؤالك.",
+            "error": "تعذر الاتصال بالخادم.<br>آسف لعدم القدرة على الإجابة على سؤالك.",
+            "reset": "لقد قمت بإعادة تعيين المحادثة. يرجى طرح أي سؤال.",
+            "reference":"الصفحات المرجعية"
+        },
+        "system": {
+            "error": "حدث خطأ. يرجى المحاولة مرة أخرى.",
+            "reset": "تم حذف السياق",
+            "loading":"جاري تحميل البيانات. يرجى الانتظار.."
+        },
+        "placeholder": "اكتب سؤالك هنا..",
+        "loading":{
+            "1":"البحث عن المعلومات للإجابة",
+            "2":"تنظيم المعلومات",
+            "3":"سيتم الانتهاء قريبًا",
+            "4":"ما هو السؤال الصعب!🙄",
+            "5":"هذه المرة الأولى التي تستغرق فيها كل هذا الوقت😮"
+        }
+    }
+}
