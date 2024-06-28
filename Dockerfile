@@ -5,8 +5,9 @@ WORKDIR /src
 ADD ./ /src
 
 RUN pip install --upgrade pip
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install poetry
+RUN poetry install
 
 EXPOSE 8000 
 
-CMD ["python", "api.py"]
+CMD ["poetry","run","uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]
