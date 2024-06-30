@@ -511,7 +511,7 @@ ASKTOWEB_ASSISTANT_TYPING_DOM = `<div id="asktoweb-message-loader" class="messag
 //開発環境と本番環境をURLに応じて自動で切り替え
 //URLがローカルホストまたは、ローカルファイルの場合は開発環境と判断
 if(location.hostname === "localhost" || location.protocol === "file:"){
-  var API_URL = "http://127.0.0.1:80";
+  var API_URL = "http://127.0.0.1:8000";
 }else{
   var API_URL = "https://api.asktoweb.com";
 }
