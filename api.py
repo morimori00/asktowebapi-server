@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 # .envファイルの内容を読み込見込む
 load_dotenv(override=True)
 
-from fastapi import FastAPI, HTTPException,Response
+from fastapi import FastAPI
 import uvicorn
 from starlette.middleware.cors import CORSMiddleware # 追加
 from fastapi.staticfiles import StaticFiles
