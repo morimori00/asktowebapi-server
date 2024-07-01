@@ -19,6 +19,7 @@ langchain-pinecone = "0.1.1"
 0-0-1 = "^0.0.1"
 langchain-cohere = "0.1.8"
 langchain-anthropic = "0.1.15"
+pinecone-client = "3.2.2"
 
 
 [build-system]
