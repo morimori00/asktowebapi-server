@@ -6,7 +6,7 @@ ADD ./ /src
 
 RUN pip install --upgrade pip
 RUN pip install poetry
-RUN poetry install --no-cache
+RUN poetry install --no-cache --no-root --no-dev
 
 EXPOSE 8000 
 
