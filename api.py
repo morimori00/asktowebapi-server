@@ -410,5 +410,6 @@ def resethistory(sesstionId: str):
     save_chat_history(chat_history, sesstionId)
     return {"chat_history": chat_history}
 
+
 if __name__ == "__main__":
     uvicorn.run(app)
